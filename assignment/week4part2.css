@@ -1,4 +1,8 @@
-body {
+h2 {
   background-color: lightblue;
-  text-decoration-style: white;
+  color: white;
+}
+h3 {
+  background-color: darkblue;
+  color: white;
 }
