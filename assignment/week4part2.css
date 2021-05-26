@@ -1,6 +1,14 @@
 
-body {
+div {
   background-color: grey;
+  width: 100%;
+   height: 100%;
+   margin:0; /* Space from this element (entire page) and others*/
+   padding:0; /*space from content and border*/
+   border: solid black;
+   border-width: thick;
+   overflow:visible;
+   display:inline-grid;
 
 }
 h2 {
